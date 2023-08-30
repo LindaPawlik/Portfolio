@@ -1,0 +1,30 @@
+body{
+	background-color: #ffccff;
+}
+ul li {
+	list-style-type: none;
+	display: inline-flex;
+	background-color:#cc6699 ;
+	padding: 15px;
+	margin: 5px;
+	margin-top: -20px;
+	text-shadow: .5px .5px .5px darkgrey;
+	box-shadow: 1px 1px 2px #cc6699;
+	font-weight: bold;
+	
+	
+	
+}
+.title {
+	font-size: 50px;
+	text-align: center;
+	background-color: #cc6699;
+	padding: 30px;
+	border-radius: 7px;
+	border: solid #ecc6d9;
+	font-style:italic;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px darkgrey;
+	box-shadow: 1px 1px 2px #cc6699;
+	margin-top: -16px;
+	display: inline-flex justify: center;
