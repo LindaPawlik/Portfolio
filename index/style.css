@@ -39,3 +39,12 @@ li {
 	width: vw 100%;
 
 }
+
+.intro {
+	font-size: 20px;
+	color: black;
+	text-shadow: #cc6699;
+	background-color: #ecc6d9;
+	text-align: center;
+	width: 50%;
+}
