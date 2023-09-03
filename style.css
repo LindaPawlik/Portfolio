@@ -71,7 +71,11 @@ p {
 	color: purple;
 }
 
-img {
+.about {
 	border: solid #cc6699 1px;
 	border-radius: 50%;
+}
+
+img.case-studies {
+	border-radius: 5px;
 }
