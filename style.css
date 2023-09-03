@@ -9,7 +9,7 @@ body {
 
 nav ul li {
 	list-style-type: none;
-	
+
 	background-color: #cc6699;
 	padding: 15px;
 	margin: 5px;
@@ -17,7 +17,7 @@ nav ul li {
 	text-shadow: .5px .5px .5px darkgrey;
 	box-shadow: 1px 1px 2px #cc6699;
 	font-weight: bold;
-	
+
 }
 
 
@@ -40,12 +40,17 @@ nav ul li {
 
 .intro {
 	font-size: 20px;
-	color: black;
+	color: purple;
 	text-shadow: #cc6699;
 	background-color: #ecc6d9;
 	text-align: center;
 	width: 50%;
+	padding: 20px;
+	border: solid #cc6699 3px;
+	border-radius: 7px;
+	padding-top: 60px;
 }
+
 nav ul {
 	display: flex;
 	width: 100%;
@@ -54,4 +59,19 @@ nav ul {
 
 .flex {
 	display: flex;
+
+}
+
+.homepage {
+	display: flex;
+	justify-content: center;
+}
+
+p {
+	color: purple;
+}
+
+img {
+	border: solid #cc6699 1px;
+	border-radius: 50%;
 }
